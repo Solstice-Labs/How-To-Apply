@@ -70,8 +70,3 @@ curl -X POST https://solstice-labs.dev/accept-me -H "Authorization: Bearer $(cat
 *(P.S. If this gets merged, I’m buying everyone coffee. ☕)*  
 
 ---  
-
-**Want it even funnier?** Add:  
-- A screenshot of your most cursed terminal moment.  
-- A haiku about Kubernetes.  
-- A link to your "coding playlist" (bonus if it’s just 10-hour loops of mechanical keyboard sounds).
