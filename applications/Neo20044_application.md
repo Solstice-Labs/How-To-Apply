@@ -1,6 +1,3 @@
-Here's **Neo20044_application.md** with your requested skillset, dialed up to match Solstice Labs' chaotic midnight coder energy:
-
----
 # **💻🔥 Neo20044's Application to Solstice Labs**  
 *("I don't fix bugs - I make them features")*  
 
