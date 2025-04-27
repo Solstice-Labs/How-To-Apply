@@ -62,7 +62,3 @@ print("P.S. Hire me and I'll make the coffee machine send Slack alerts")
 *"I tested this in production (you should too)"*  
 
 --- 
-
-**🐧 Bonus Unhinged Proof:**  
-![terminal screenshot of me `grepping` through 10k lines of logs at 3AM](meme.jpg)  
-*Actual last search history: "how to undo git reset --hard"*
